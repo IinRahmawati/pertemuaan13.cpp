@@ -1,0 +1,11 @@
+perbedaan liniear dan circular
+ single linked adalah sebuah linked list yang menggunakan sebuah variabel pointer saja untuk menyimpan
+ banyak data dengan menggunakan metode linked list sesuatu daftar isi yang saling berhubungan sedangkan circular adalah suatu
+ linked list yang tidak memiliki nilai nill/NULL untuk medan sambungannya
+ 
+
+ single linked list merupakan suatu linked list yang hanya memiliki suatu variabel pointer saja dimana pointer tersebut 
+ menunjuk ke kode selanjutnya biasanya field pada detail menunjuk ke NULL sedangkan double linked list 
+ merupakan ssuatu linked list yang memiliki dua variabel pointer yang menunjuk ke kode selanjutnya 
+ dan pointer yang menunjukkan ke kode sebelumnya setiap head dan detailnya juga menunjuk ke NULL
+© 2019 GitHub, Inc.
